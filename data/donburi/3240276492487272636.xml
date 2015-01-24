@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><donburiBean>
+    <category>こってり系</category>
+    <created>2015-01-08T23:23:31.882+09:00</created>
+    <description>「他人丼」と呼ぶ料理は、鶏卵の親である「鶏」以外の肉（牛肉や豚肉など）を使用した卵とじの丼ものを指す。&#13;
+牛肉・豚肉を使用したものを「開化丼」と（主に関東地域では）呼称することがあり、これは明治初年に始まった文明開化の象徴となる畜肉料理であったからといわれている。</description>
+    <ingredient>卵</ingredient>
+    <kanjo>
+        <price>702</price>
+    </kanjo>
+    <kanjoList>
+        <price>702</price>
+    </kanjoList>
+    <name>他人丼</name>
+    <updated>2015-01-09T22:28:03.082+09:00</updated>
+</donburiBean>

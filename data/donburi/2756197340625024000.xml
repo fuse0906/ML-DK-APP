@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><donburiBean>
+    <category>王道</category>
+    <created>2015-01-09T18:21:55.974+09:00</created>
+    <description>aaa</description>
+    <kanjoList>
+        <price>1</price>
+        <shop>aaa</shop>
+    </kanjoList>
+    <name>aaaa</name>
+    <updated>2015-01-09T18:21:55.974+09:00</updated>
+</donburiBean>

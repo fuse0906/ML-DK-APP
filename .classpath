@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="dk-app/WEB-INF/lib/client-api-java-2.0.4.jar"/>
+	<classpathentry kind="lib" path="dk-app/WEB-INF/lib/commons-codec-1.7.jar"/>
+	<classpathentry kind="lib" path="dk-app/WEB-INF/lib/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="dk-app/WEB-INF/lib/httpclient-4.1.1.jar"/>
+	<classpathentry kind="lib" path="dk-app/WEB-INF/lib/httpcore-4.1.jar"/>
+	<classpathentry kind="lib" path="dk-app/WEB-INF/lib/jersey-apache-client4-1.17.jar"/>
+	<classpathentry kind="lib" path="dk-app/WEB-INF/lib/jersey-client-1.17.jar"/>
+	<classpathentry kind="lib" path="dk-app/WEB-INF/lib/jersey-core-1.17.jar"/>
+	<classpathentry kind="lib" path="dk-app/WEB-INF/lib/jersey-multipart-1.17.jar"/>
+	<classpathentry kind="lib" path="dk-app/WEB-INF/lib/logback-classic-1.0.12.jar"/>
+	<classpathentry kind="lib" path="dk-app/WEB-INF/lib/logback-core-1.0.12.jar"/>
+	<classpathentry kind="lib" path="dk-app/WEB-INF/lib/mimepull-1.6.jar"/>
+	<classpathentry kind="lib" path="dk-app/WEB-INF/lib/mimepull-1.9.4.jar"/>
+	<classpathentry kind="lib" path="dk-app/WEB-INF/lib/slf4j-api-1.7.4.jar"/>
+	<classpathentry kind="lib" path="dk-app/WEB-INF/lib-ext/catalina.jar"/>
+	<classpathentry kind="lib" path="dk-app/WEB-INF/lib-ext/servlet-api.jar"/>
+	<classpathentry kind="output" path="dk-app/WEB-INF/classes"/>
+</classpath>

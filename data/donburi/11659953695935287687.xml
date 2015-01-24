@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><donburiBean>
+    <category>王道</category>
+    <created>2015-01-08T23:22:35.767+09:00</created>
+    <description>親子丼（おやこどんぶり、おやこどん）は、鶏肉を割り下などで煮ながら卵汁でとじ、ご飯の上に乗せた料理。丼物の一種。「親子」という名称は鶏の肉と卵を使うことに由来する。親子どんぶりと記述することもある。玉ねぎや長ねぎなどを入れる店もある。&#13;
+&#13;
+鶏肉と鶏卵以外を材料とする丼の中にも「親子丼」と称する料理がある。</description>
+    <ingredient>卵</ingredient>
+    <kanjo>
+        <price>490</price>
+        <shop>なか卯</shop>
+    </kanjo>
+    <kanjo>
+        <price>1180</price>
+        <shop>つるとんたん</shop>
+    </kanjo>
+    <kanjo>
+        <price>1500</price>
+        <shop>玉ひで</shop>
+    </kanjo>
+    <kanjoList>
+        <price>490</price>
+        <shop>なか卯</shop>
+    </kanjoList>
+    <kanjoList>
+        <price>1180</price>
+        <shop>つるとんたん</shop>
+    </kanjoList>
+    <kanjoList>
+        <price>1500</price>
+        <shop>玉ひで</shop>
+    </kanjoList>
+    <name>親子丼</name>
+    <updated>2015-01-09T19:19:13.432+09:00</updated>
+</donburiBean>

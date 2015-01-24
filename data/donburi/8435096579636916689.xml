@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><donburiBean>
+    <category>さっぱり系</category>
+    <created>2015-01-08T23:24:44.430+09:00</created>
+    <description>ロコモコ (locomoco、Loco Moco) は、ハワイの料理のひとつ。日本の丼ものに近い。日本国内では日本語化してロコモコ丼と呼ぶこともある。&#13;
+白飯の上にハンバーグと目玉焼きを乗せ、グレイビーソースをかけたものが基本である。&#13;
+&#13;
+近年誕生した店の中には、テリヤキチキンやマヒマヒ（シイラ）などハンバーグ以外の具材を用い、それに合わせたソースなどのアレンジを加えたものを「～ロコモコ」と称する例もある。こうしたバリエーションを持つ新しい店では、レタスなどの生野菜が追加されることもある。&#13;
+もとは学生向けの安価なファストフードだったが、ハワイの郷土料理としての色彩も濃くなってきている。</description>
+    <ingredient>ハンバーグ</ingredient>
+    <kanjo>
+        <price>390</price>
+        <shop>ガスト</shop>
+    </kanjo>
+    <kanjo>
+        <price>1070</price>
+        <shop>Est! Est!</shop>
+    </kanjo>
+    <kanjo>
+        <price>436</price>
+        <shop>セブンイレブン</shop>
+    </kanjo>
+    <kanjoList>
+        <price>390</price>
+        <shop>ガスト</shop>
+    </kanjoList>
+    <kanjoList>
+        <price>1070</price>
+        <shop>Est! Est!</shop>
+    </kanjoList>
+    <kanjoList>
+        <price>436</price>
+        <shop>セブンイレブン</shop>
+    </kanjoList>
+    <name>ロコモコ</name>
+    <updated>2015-01-09T19:31:23.508+09:00</updated>
+</donburiBean>

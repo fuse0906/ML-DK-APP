@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?><donburiBean>
+    <category>王道</category>
+    <created>2015-01-08T23:27:48.192+09:00</created>
+    <description>カツ丼（カツどん）は、丼に盛った飯の上に調理した豚カツを乗せた日本の丼料理である。&#13;
+&#13;
+一般的には、豚カツを割下で煮て調味し、鶏卵でとじた具を丼飯の上に乗せたスタイルをとっているが、日本国内の一部地域においては、豚カツを丼飯に乗せ、ソースで味付けしたスタイルのカツ丼も存在する。</description>
+    <ingredient>豚肉</ingredient>
+    <kanjo>
+        <price>590</price>
+        <shop>なか卯</shop>
+    </kanjo>
+    <kanjo>
+        <price>1380</price>
+        <shop>つるとんたん</shop>
+    </kanjo>
+    <kanjo>
+        <price>490</price>
+        <shop>かつや</shop>
+    </kanjo>
+    <kanjoList>
+        <price>590</price>
+        <shop>なか卯</shop>
+    </kanjoList>
+    <kanjoList>
+        <price>1380</price>
+        <shop>つるとんたん</shop>
+    </kanjoList>
+    <kanjoList>
+        <price>490</price>
+        <shop>かつや</shop>
+    </kanjoList>
+    <name>カツ丼</name>
+    <updated>2015-01-09T19:22:32.287+09:00</updated>
+</donburiBean>

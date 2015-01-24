@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><donburiBean>
+    <category>さっぱり系</category>
+    <created>2015-01-08T23:30:57.559+09:00</created>
+    <description>醤油漬けにされたイクラを使用。</description>
+    <ingredient>海産物</ingredient>
+    <kanjo>
+        <price>1780</price>
+        <shop>海鮮食堂 北のグルメ亭</shop>
+    </kanjo>
+    <kanjoList>
+        <price>1780</price>
+        <shop>海鮮食堂 北のグルメ亭</shop>
+    </kanjoList>
+    <name>イクラ丼</name>
+    <updated>2015-01-09T19:17:25.958+09:00</updated>
+</donburiBean>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><donburiBean>
+    <category>こってり系</category>
+    <created>2015-01-08T23:25:58.671+09:00</created>
+    <description>天玉丼（てんたまどん）とは、丼飯の上に、玉子とじにした天ぷらを載せた丼物の一種。天ぷら玉子とじ丼や天とじ丼といった呼称もある。&#13;
+&#13;
+天ぷらを割下で煮て溶き卵でとじるものであり、天かすを使う物もある。使用する天ぷらの種類は特に限定はなく、えび天やかき揚げなど様々である。かき揚げを使うときは「かき揚げ玉子とじ丼」と呼ばれたりすることもある。&#13;
+&#13;
+油揚げを醤油で煮つけてネギを入れて卵とじにするものは「きつね丼」とも言う。&#13;
+&#13;
+東京都立西高等学校の学生食堂で天玉丼が提供されている。同校の名物となっている。</description>
+    <ingredient>天ぷら</ingredient>
+    <kanjo>
+        <price>880</price>
+        <shop>ヨドバシ博多</shop>
+    </kanjo>
+    <kanjoList>
+        <price>880</price>
+        <shop>ヨドバシ博多</shop>
+    </kanjoList>
+    <name>天玉丼</name>
+    <updated>2015-01-18T20:11:25.929+09:00</updated>
+</donburiBean>

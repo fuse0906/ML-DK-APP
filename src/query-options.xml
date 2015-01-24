@@ -1,0 +1,100 @@
+<search xmlns="http://marklogic.com/appservices/search">
+  <qtext>{0}</qtext>
+  <options>
+	<transform-results apply="{1}">
+	  <preferred-elements>
+	  </preferred-elements>
+	</transform-results>
+    <constraint name="ingredient">
+      <range type="xs:string">
+        <element ns="" name="ingredient" />
+        <facet-option>limit=10</facet-option>
+        <facet-option>frequency-order</facet-option>
+        <facet-option>descending</facet-option>
+      </range>
+    </constraint>
+    <constraint name="category">
+      <range type="xs:string">
+        <element ns="" name="category" />
+        <facet-option>item-order</facet-option>
+        <facet-option>ascending</facet-option>
+      </range>
+    </constraint>
+    <values name="price">
+      <range type="xs:int">
+        <element ns="" name="price" />
+      </range>
+      <aggregate apply="count"/>
+      <aggregate apply="avg"/>
+      <aggregate apply="min"/>
+      <aggregate apply="max"/>
+      <aggregate apply="median"/>
+      <aggregate apply="stddev"/>
+      <aggregate apply="stddev-population"/>
+      <aggregate apply="variance"/>
+      <aggregate apply="variance-population"/>
+      <aggregate apply="sum"/>
+    </values>
+    <tuples name="category-ingredient">
+      <range type="xs:string">
+        <element ns="" name="category" />
+      </range>
+      <range type="xs:string">
+        <element ns="" name="ingredient" />
+      </range>
+    </tuples>
+    <operator name="sort">
+      <state name="score">
+        <sort-order direction="descending">
+           <score/>
+        </sort-order>
+      </state>
+      <state name="name-asc">
+        <sort-order direction="ascending" type="xs:string">
+           <element ns="" name="name"/>
+        </sort-order>
+        <sort-order direction="descending">
+           <score/>
+        </sort-order>
+      </state>
+      <state name="name-desc">
+        <sort-order direction="descending" type="xs:string">
+           <element ns="" name="name"/>
+        </sort-order>
+        <sort-order direction="descending">
+           <score/>
+        </sort-order>
+      </state>
+      <state name="created-asc">
+        <sort-order direction="ascending" type="xs:dateTime">
+           <element ns="" name="created"/>
+        </sort-order>
+        <sort-order direction="descending">
+           <score/>
+        </sort-order>
+      </state>
+      <state name="created-desc">
+        <sort-order direction="descending" type="xs:dateTime">
+           <element ns="" name="created"/>
+        </sort-order>
+        <sort-order direction="descending">
+           <score/>
+        </sort-order>
+      </state>
+      <state name="updated-asc">
+        <sort-order direction="ascending" type="xs:dateTime">
+           <element ns="" name="updated"/>
+        </sort-order>
+      </state>
+      <state name="updated-desc">
+        <sort-order direction="descending" type="xs:dateTime">
+           <element ns="" name="updated"/>
+        </sort-order>
+      </state>
+    </operator>
+    <return-facets>true</return-facets>
+    <return-metrics>true</return-metrics>
+    <return-results>true</return-results>
+    <return-similar>{2}</return-similar>
+  </options>
+</search>

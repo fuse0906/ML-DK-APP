@@ -1,0 +1,4 @@
+WEB-INF/classes
+WEB-INF/lib/*.jar
+
+/WEB-INF/

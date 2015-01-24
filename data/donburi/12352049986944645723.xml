@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?><donburiBean>
+    <category>さっぱり系</category>
+    <created>2015-01-08T23:30:10.932+09:00</created>
+    <description>酢飯の上に刻み海苔その上にマグロ（クロマグロ・ミナミマグロ・キハダマグロなど）の刺身を載せたもの。</description>
+    <ingredient>海産物</ingredient>
+    <kanjo>
+        <price>550</price>
+        <shop>すき家</shop>
+    </kanjo>
+    <kanjo>
+        <price>730</price>
+        <shop>やよい軒</shop>
+    </kanjo>
+    <kanjo>
+        <price>500</price>
+        <shop>まぐろざんまい</shop>
+    </kanjo>
+    <kanjoList>
+        <price>550</price>
+        <shop>すき家</shop>
+    </kanjoList>
+    <kanjoList>
+        <price>730</price>
+        <shop>やよい軒</shop>
+    </kanjoList>
+    <kanjoList>
+        <price>500</price>
+        <shop>まぐろざんまい</shop>
+    </kanjoList>
+    <name>鉄火丼</name>
+    <updated>2015-01-09T19:21:55.740+09:00</updated>
+</donburiBean>

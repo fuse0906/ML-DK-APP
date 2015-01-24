@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><donburiBean>
+    <category>さっぱり系</category>
+    <created>2015-01-08T23:29:38.047+09:00</created>
+    <description>海鮮丼（かいせんどん）は、容器に丼を用い、具材に海産物を用いた海鮮ちらし寿司の丼物料理。又は、その料理の総称。&#13;
+&#13;
+「ちらし寿司」は、酢飯に握り寿司用のネタ（魚介類の刺身）を中心に様々な具をちらして飾り乗せした料理であるが、海鮮丼は、酢を入れない飯を敷き詰めた料理をもさす。また、「ちらし寿司」・「生ちらし」を指す場合もある。&#13;
+&#13;
+ちらし寿司と違い、主に丼物店で出される料理である。使用する寿司種は、マグロ、ホタテ、サケ、イカ、エビ、タコ、イクラ、ウニなどの魚介類で、ワサビを添えることが多い。</description>
+    <ingredient>海産物</ingredient>
+    <kanjo>
+        <price>600</price>
+        <shop>五輪鮨</shop>
+    </kanjo>
+    <kanjo>
+        <price>1000</price>
+        <shop>海鮮どんやとびしま</shop>
+    </kanjo>
+    <kanjo>
+        <price>3450</price>
+        <shop>海鮮食堂 北のグルメ亭</shop>
+    </kanjo>
+    <kanjoList>
+        <price>600</price>
+        <shop>五輪鮨</shop>
+    </kanjoList>
+    <kanjoList>
+        <price>1000</price>
+        <shop>海鮮どんやとびしま</shop>
+    </kanjoList>
+    <kanjoList>
+        <price>3450</price>
+        <shop>海鮮食堂 北のグルメ亭</shop>
+    </kanjoList>
+    <name>海鮮丼</name>
+    <updated>2015-01-09T19:18:11.862+09:00</updated>
+</donburiBean>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><donburiBean>
+    <category>さっぱり系</category>
+    <created>2015-01-08T23:31:28.229+09:00</created>
+    <description>ばくだん丼（ばくだんどん）とは、生マグロ、納豆、生卵、オクラなどを丼に盛った飯の上に載せた料理。&#13;
+通常は、マグロ、納豆、卵､オクラなどを盛り、醤油とわさびで食す。地方によって飯の上に盛る具は異なり、日本各地に各地の特産品を取り入れた同名の郷土料理が存在する。以前は一般にはそれほど広く知られた料理とは言えなかったが、近年は大戸屋などのメニューにも取り入れられたり、海鮮丼専門店や居酒屋で扱うことも増加してきた。</description>
+    <ingredient>ねばねば</ingredient>
+    <kanjo>
+        <price>739</price>
+        <shop>大戸屋</shop>
+    </kanjo>
+    <kanjo>
+        <price>650</price>
+        <shop>銀八丼</shop>
+    </kanjo>
+    <kanjoList>
+        <price>739</price>
+        <shop>大戸屋</shop>
+    </kanjoList>
+    <kanjoList>
+        <price>650</price>
+        <shop>銀八丼</shop>
+    </kanjoList>
+    <name>ばくだん丼</name>
+    <updated>2015-01-09T19:11:36.636+09:00</updated>
+</donburiBean>
