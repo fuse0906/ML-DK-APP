@@ -1,4 +1,3 @@
-WEB-INF/classes
-WEB-INF/lib/*.jar
+dk-app/WEB-INF/classes
 
-/WEB-INF/
+dk-appWEB-INF/lib/*.jar
