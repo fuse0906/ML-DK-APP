@@ -46,7 +46,7 @@ write(pojo) / pojo = read() 的な感じです。POJOをそのままストアで
 1. Application Servicesでデータベース作成
 2. 以下のElement Range Indexを設定
 	- created,updated (namespaceなし / dateTime型)
-	- price (namespaceなし / dateTime型)
+	- price (namespaceなし / int型)
 	- shop,name,category,ingredient (namespaceなし / string型)
 3. Application ServicesでRESTインタフェース作成
 4. [MLCP](http://developer.marklogic.com/products/mlcp)でデータロード (接続先と-input_file_pathオプションくらいでOKです。)
