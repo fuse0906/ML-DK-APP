@@ -71,7 +71,7 @@ public class ListAction extends Action {
 		String query = request.getParameter("q");
 		String sort = request.getParameter("sort");
 
-		query = Utils.isBlank(query) ? "" : query;
+		query = Utils.isBlank(query) ? "" : query.replaceAll("　", " "); /* full-width space -> half-wide space */
 		query = !Utils.isBlank(sort) ? query.replaceAll("\\s*sort:\\S+", "") + " sort:" + sort : query;
 		request.setAttribute("query", query);
 
