@@ -115,7 +115,7 @@ public class ListAction extends Action {
 			{
 				/** 1.2 key-value query (string queryのブロックをコメントアウトし、当該ブロックのコメントを外します。)
 				KeyValueQueryDefinition keyValueQueryDef = queryManager.newKeyValueDefinition();
-				keyValueQueryDef.put(queryManager.newElementLocator(new QName("s"), null), query);
+				keyValueQueryDef.put(queryManager.newElementLocator(new QName("shop"), null), query);
 				
 				queryDef = keyValueQueryDef;
 				/**/
